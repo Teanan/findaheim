@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\chipmunk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpArbiter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpArray.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpBBTree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpBody.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpCollision.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpConstraint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpDampedRotarySpring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpDampedSpring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpGearJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpGrooveJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpHashSet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpHastySpace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpMarch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpPinJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpPivotJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpPolyline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpPolyShape.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpRatchetJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpRobust.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpRotaryLimitJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpShape.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSimpleMotor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSlideJoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpaceComponent.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpaceDebug.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpaceHash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpaceQuery.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpaceStep.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSpatialIndex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\cpSweep1D.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9F3B888D-9005-434E-931B-34DEE4A51863}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

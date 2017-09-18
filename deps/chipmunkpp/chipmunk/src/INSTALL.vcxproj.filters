@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\git\entitySys\deps\chipmunkpp\chipmunk\CMakeFiles\ae8583211d23250dd17865ba14bff47b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{472550FB-23AD-4147-963D-0A079A1C8617}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
