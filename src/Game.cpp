@@ -64,7 +64,7 @@ void Game::init()
 
 	m_animationSystem.setFps(ANIMATION_FPS);
 
-	m_physicsSystem.setGravity(cp::Vect(0, 10));
+	m_physicsSystem.setGravity(cp::Vect(0, 50));
 }
 
 void Game::load(sf::View screen){
@@ -145,7 +145,7 @@ void Game::load(sf::View screen){
 		e.addComponent<LightComponent>();
 
 		auto& physic = e.addComponent<PhysicsComponent>();
-		physic.createBody(10, cpMomentForBox(10, 48, 48));
+		physic.createBody(50, cpMomentForBox(50, 48, 48));
 		auto box = physic.addBoxShape(48, 48, 0.2f);
 		box->setElasticity(0.3);
 		box->setFriction(0.8);
